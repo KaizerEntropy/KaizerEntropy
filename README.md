@@ -6,7 +6,6 @@
 
 [![Email](https://img.shields.io/badge/Email-diptarko.1312%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diptarko.1312@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diptarko_Bhattacharjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diptarko-bhattacharjee-439a5b320/)
-[![X/Twitter](https://img.shields.io/badge/X-@KaizerEntropy-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/KaizerEntropy)
 
 <br/>
 
@@ -191,7 +190,6 @@ I am always interested in discussing **medical AI research, deep learning, compu
 
 [![Email Me](https://img.shields.io/badge/Direct_Email-diptarko.1312%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diptarko.1312@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Diptarko_Bhattacharjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diptarko-bhattacharjee-439a5b320/)
-[![Follow on X](https://img.shields.io/badge/Follow-@KaizerEntropy-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/KaizerEntropy)
 
 <br/>
 
